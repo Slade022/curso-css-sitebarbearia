@@ -1,0 +1,30 @@
+codigos html curso css
+<p> paragrafo 
+<strong> usa para marcar conteudos de texto
+<em> marca uma linha ou texto em italico
+<!DOCTYPE html> declara a versao do html (nesse caso ta html5)
+<html></html> declara oq é html na pagina
+<html lang="pt-br"> declara html e linguagem da pagina
+<title>conteudo</title> declara o titulo da pagina
+<head></head> cabeça do corpo
+<body></body> conteudo do corpo da pagina
+<p style="font-size: 20px"> muda tamanho de uma fonte em paragrafo usando css
+
+style="text-align: center" css alinha texto
+<link rel="stylesheet"href="style.css"> indica e puxa para o html o conteudo css
+<img src="banner.jpg"> seleciona uma imagem em html
+padding-top: 20px;  altera a posicao do item ou imagem
+margin-left: 20px;  altera a posicao do item ou image]m
+border: 10px solid black;  cria uma borda
+
+Em CSS usamos # para identificadores e . para classes
+<header> é o cabeçalho do site em html
+<a href="">conteudo</a> assim faz a ancora entre paginas web
+<nav></nav> conteudo de navegação do site
+text-transform: uppercase; deixa o texto em maiusculo pelo css
+font-weight: bold; altera fonte no css 
+fonte-size: 30px; altera tamanho do texto em css
+<form></> tag de formulario
+"valor"em = no css multiplica o tamanho da fonte principal
+margin: 0 0; espaçamento para baixo
+float: left no css descola um item ou imagem para que o texto se envolva ao entorno dele
